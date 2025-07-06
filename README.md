@@ -2,13 +2,15 @@
 Practical SAP Business One training guides focused on real-world usage, customization, and implementation.
 Designed for SAP B1 consultants, analysts, and power users, each guide offers a focused deep dive into powerful features of the system — with practical tips, implementation steps, and real-world examples.
 
+   <img src="https://github.com/user-attachments/assets/4e896a21-e819-45d1-a709-c6bf81a6fb96" width="30%">
+
 ## 📚 Guide
-| No. | Title                      | Link |
-|--------|----------------------------|------|
-| 1      | **Advanced Available-to-Promise (ATP) and Delivery Schedule Management**   | [Guide](https://www.linkedin.com/posts/tonekaboni_sap-business-one-available-to-promise-atp-activity-7330141250928508928-e81i?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |
-| 2      | **Unlock Hidden Sales Insights in SAP Business One** | [Guide](https://www.linkedin.com/posts/tonekaboni_sap-business-one-recent-sales-items-activity-7332673836133281795-L2_k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |
-| 3      | **Supercharge your view of Connected Business Partners**    | [Guide](https://www.linkedin.com/pulse/supercharge-your-view-connected-business-partners-tonekaboni-wayse/) |
-| 4      | **Revolutionizing Sales with SAP Business One, n8n, and AI** | [Guide](https://www.linkedin.com/posts/tonekaboni_automating-sap-business-one-with-n8n-activity-7338469577615421440-7kD7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |
+| No. | Title                      | Link | GitHub |
+|--------|----------------------------|------|------|
+| 1      | **Advanced Available-to-Promise (ATP) and Delivery Schedule Management**   | [Guide](https://www.linkedin.com/posts/tonekaboni_sap-business-one-available-to-promise-atp-activity-7330141250928508928-e81i?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |[Code](https://github.com/atonekaboni/SBO_Inventory/)
+| 2      | **Unlock Hidden Sales Insights in SAP Business One** | [Guide](https://www.linkedin.com/posts/tonekaboni_sap-business-one-recent-sales-items-activity-7332673836133281795-L2_k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |[Code](https://github.com/atonekaboni/SBO_Marketing)
+| 3      | **Supercharge your view of Connected Business Partners**    | [Guide](https://www.linkedin.com/pulse/supercharge-your-view-connected-business-partners-tonekaboni-wayse/) |[Code](https://github.com/atonekaboni/SBO_ConnectedBP)
+| 4      | **Revolutionizing Sales with SAP Business One, n8n, and AI** | [Guide](https://www.linkedin.com/posts/tonekaboni_automating-sap-business-one-with-n8n-activity-7338469577615421440-7kD7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |[Code](https://gist.github.com/atonekaboni)
 
 
 ## License
