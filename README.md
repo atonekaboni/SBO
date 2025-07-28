@@ -11,7 +11,7 @@ Designed for SAP B1 consultants, analysts, and power users, each guide offers a 
 | 2      | **Unlock Hidden Sales Insights in SAP Business One** | [Guide](https://www.linkedin.com/posts/tonekaboni_sap-business-one-recent-sales-items-activity-7332673836133281795-L2_k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |[Code](https://github.com/atonekaboni/SBO_Marketing)
 | 3      | **Supercharge your view of Connected Business Partners**    | [Guide](https://www.linkedin.com/pulse/supercharge-your-view-connected-business-partners-tonekaboni-wayse/) |[Code](https://github.com/atonekaboni/SBO_ConnectedBP)
 | 4      | **Revolutionizing Sales with SAP Business One, n8n, and AI** | [Guide](https://www.linkedin.com/posts/tonekaboni_automating-sap-business-one-with-n8n-activity-7338469577615421440-7kD7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDb4BUBwrtNLCqckikLrx7TD4YP-5NCMfA) |[Code](https://gist.github.com/atonekaboni)
-| 5      | **Sales Blocklist** | [Guide](https://www.linkedin.com/posts/tonekaboni_sap-business-one-custom-sales-blocklist-activity-7355487934503882753-VPCk) |[Code](https://gist.github.com/atonekaboni/7256d5944f675a44e4b511d8608ae791)
+| 5      | **Custom Sales Blocklist in SAP Business One** | [Guide](https://www.linkedin.com/posts/tonekaboni_sap-business-one-custom-sales-blocklist-activity-7355487934503882753-VPCk) |[Code](https://gist.github.com/atonekaboni/7256d5944f675a44e4b511d8608ae791)
 
 
 ## License
